@@ -1,6 +1,11 @@
 # Instagram Auto-Posting with n8n
 
 Automated Instagram posting using n8n, Google Sheets, Cloudinary, Google Gemini and the Meta Graph API.
+🎥 Project Demo
+
+Watch the video demonstration of the Instagram Auto-Posting Automation project to see how the workflow automates content creation and Instagram publishing using n8n and AI-powered tools.
+
+▶️ Watch the Project Demo on YouTube
 
 ## How it works
 1. Schedule Trigger starts the workflow
